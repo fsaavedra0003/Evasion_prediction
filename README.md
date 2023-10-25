@@ -1,13 +1,12 @@
-# Project Title
+# Fare Evasion prediction
 
-A brief description of what this project does and who it's for
+This project will predict the bus and metro evasion according to the historical data taken from inspectors.
+With this system the user will be able to select the zone and time to predict the future evasions. Therefore, the inspectors will be available in the most prone zone of the city.
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- Input with CSV
+- Select the time range 
 
 ## Built With
 - Python
