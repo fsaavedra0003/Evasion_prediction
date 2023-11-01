@@ -27,7 +27,7 @@ This can be used by transport system companies.
 
 ## Contributing
 
-Contributions are always welcome!
+Contributions are always welcome!:slightly_smiling_face:
 
 
 ## Screenshots
