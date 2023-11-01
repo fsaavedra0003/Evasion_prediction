@@ -29,14 +29,9 @@ This can be used by transport system companies.
 
 Contributions are always welcome! :slightly_smiling_face:
 
-
-## Screenshots
-
-
 ## License
 
 This project is licensed under the fsaavedra
-
 
 ## Acknowledgements
 
