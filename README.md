@@ -1,4 +1,7 @@
-# Fare Evasion prediction
+# Fare Evasion prediction system
+
+
+## Description
 
 The entire Berlin transportation system runs on the honor system. However, you need to show a ticket when fares are enforced via random spot-checks by inspectors. Of course, during these checks there are evaders detected. All this data is then collected via the handheld device used by the inspectors which will utilized for various data project.
 
@@ -32,6 +35,7 @@ Contributions are always welcome!
 
 ## License
 
+This project is licensed under the fsaavedra
 
 
 ## Acknowledgements
