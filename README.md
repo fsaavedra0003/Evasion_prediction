@@ -14,8 +14,11 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 
 ## UML
 
--ML Diagramm created with Lucid (Class, Component and User Diagrams for the project)
+-UML Diagramm created with Lucid (Class, Component and User Diagrams for the project)
 
+## DDD
+
+-Creation with Miro of Event Storming file and resulting Diagrams and DDD
 
 ## Features
 
