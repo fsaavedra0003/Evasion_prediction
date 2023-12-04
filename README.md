@@ -8,7 +8,7 @@ The entire Berlin transportation system runs on the honor system. However, you n
 
 This project will have the capability to predict the U-Bahn, S-Bahn, buses, and trams evasions according to the historical data taken from inspectors. With this system the users (inspectors) will be able to obtain the prediction and route to follow within the range of parameters given. Therefore, the inspectors will be available in the most prone zone of the city at the right frequency where is likely to have evaders.
 
-##2.UML
+## UML
 
 -ML Diagramm created with Lucid (Class, Component and User Diagrams for the project)
 
