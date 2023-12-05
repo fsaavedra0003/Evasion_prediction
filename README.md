@@ -12,6 +12,8 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 
 -Usage of GitHub for the whole project time
 
+ - [Comit History](https://github.com/fsaavedra0003/Evasion_prediction/activity)
+
 ## UML
 
 -UML Diagramm created with Lucid (Class, Component and User Diagrams for the project)
