@@ -16,6 +16,8 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 
 -UML Diagramm created with Lucid (Class, Component and User Diagrams for the project)
 
+ - [Class Diagram]([https://github.com/fsaavedra0003/Evasion_prediction/blob/main/class_diagram.png])
+
 ## DDD
 
 -Creation with Miro of Event Storming file and resulting Diagrams and DDD
