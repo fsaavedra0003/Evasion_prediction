@@ -18,6 +18,8 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 
  - [Class Diagram](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/class_diagram.png)
 
+ - [Class Diagram](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/component_diagram.png)
+
 ## DDD
 
 -Creation with Miro of Event Storming file and resulting Diagrams and DDD
