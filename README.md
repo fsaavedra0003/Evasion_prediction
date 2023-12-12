@@ -26,7 +26,7 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 
 ## DDD
 
--Creation with Miro the Event Storming 
+-Creation with Figma the Event Storming 
 
  - [Event Storming](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/Event_storming_figma.png)
 
