@@ -30,6 +30,12 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 
  - [Event Storming](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/Event_storming_figma.png)
 
+
+## Metrics
+-Creation of Sonarcube account and connecting to repository (with advanced settings) for metric badges:
+
+## Clean Code Development
+
 ## Features
 
 - Input with CSV
