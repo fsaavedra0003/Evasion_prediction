@@ -32,7 +32,7 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 
 
 ## Metrics
--Creation of Sonarcube account and connecting to repository (with advanced settings) for metric badges:
+-Sonarcube account and connecting to repository for metric badges:
 
 ## Clean Code Development
 -Adding clen code developemnt for improved usage and readabilty as well as for better maintance of code.
