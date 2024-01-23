@@ -78,6 +78,18 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 - Writing UnitTests to keep correctness and desired functionality of algortihm
 
 ## IDE
+
+
+### Pycharm 
+&rarr; *own Shortcut*: 
+- ```option + r``` (run) 
+  
+&rarr; *build-in*:
+- ```cmd + f``` (find)
+- ```cmd + r``` (replace) 
+- ```option + c/v/x``` (copy/paste/cut)
+- ```cmd + /``` (comment (out))  
+- ``` shift + ctrl + d``` (start debugger)
   
 ## Features
 
