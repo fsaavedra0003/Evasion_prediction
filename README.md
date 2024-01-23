@@ -31,7 +31,7 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 
 ## DDD
 
--Creation with Figma the Event Storming 
+-Creation of diagramas for Domain-driven design 
 
  - [Event Storming, Core Domain Chart & Relations between the Domains ](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/DDD.pdf)
 
