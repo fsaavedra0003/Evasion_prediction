@@ -27,7 +27,7 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 
 ## Requirements Engineering 
 
-- [Jira](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/class_diagram.png)
+- [Jira](https://fsaavedra003.atlassian.net/jira/software/projects/KAN/boards/1)
 
 
 ## Analysis
