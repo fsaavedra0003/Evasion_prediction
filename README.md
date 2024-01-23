@@ -27,12 +27,12 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 
 ## Requirements Engineering 
 
-[Jira](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/class_diagram.png)
+- [Jira](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/class_diagram.png)
 
 
 ## Analysis
 
-[Checklist](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/class_diagram.png)
+- [Checklist](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/class_diagram.png)
 
 
 ## DDD
@@ -51,27 +51,27 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 ## Clean Code Development
 -Adding clean code developemnt for improved usage and readabilty as well as for better maintance of code.
 
-[Libraries](https://github.com/fsaavedra0003/Evasion_prediction/blob/56e0c907d30558fbfe8ed4d69dae6aec65c69782/load.py#L3-L7)
+- [Libraries](https://github.com/fsaavedra0003/Evasion_prediction/blob/56e0c907d30558fbfe8ed4d69dae6aec65c69782/load.py#L3-L7)
 
-[Variables](https://github.com/fsaavedra0003/Evasion_prediction/blob/56e0c907d30558fbfe8ed4d69dae6aec65c69782/load.py#L22-L23)
+- [Variables](https://github.com/fsaavedra0003/Evasion_prediction/blob/56e0c907d30558fbfe8ed4d69dae6aec65c69782/load.py#L22-L23)
 
-[Use the same vocabulary for the same type of variable](https://github.com/fsaavedra0003/Evasion_prediction/blob/56e0c907d30558fbfe8ed4d69dae6aec65c69782/load.py#L3-L7)
+- [Use the same vocabulary for the same type of variable](https://github.com/fsaavedra0003/Evasion_prediction/blob/56e0c907d30558fbfe8ed4d69dae6aec65c69782/load.py#L3-L7)
 
-[Use explanatory variables](https://github.com/fsaavedra0003/Evasion_prediction/blob/56e0c907d30558fbfe8ed4d69dae6aec65c69782/load.py#L3-L7)
+- [Use explanatory variables](https://github.com/fsaavedra0003/Evasion_prediction/blob/56e0c907d30558fbfe8ed4d69dae6aec65c69782/load.py#L3-L7)
 
 
-[Use default arguments instead of short circuiting or conditionals](https://github.com/fsaavedra0003/Evasion_prediction/blob/56e0c907d30558fbfe8ed4d69dae6aec65c69782/load.py#L3-L7)
+- [Use default arguments instead of short circuiting or conditionals](https://github.com/fsaavedra0003/Evasion_prediction/blob/56e0c907d30558fbfe8ed4d69dae6aec65c69782/load.py#L3-L7)
 
 
 -Creation of a Cheat Sheet for upcoming projects
 
-[Cheat Sheet](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/cheat_sheet)
+- [Cheat Sheet](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/cheat_sheet)
 
 ## Build
 
 -PyBuilder is a concept of dependency based programming and it's build logic is organized into tasks and actions
   
-[PyBuilder Files](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/cheat_sheet)
+- [PyBuilder Files](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/cheat_sheet)
   
 ## Features
 
