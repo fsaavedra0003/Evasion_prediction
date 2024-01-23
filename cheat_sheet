@@ -1,9 +1,9 @@
 #CCD cheat sheet
 # Clean Code Developement 
 
-1. Explanatory **variables**
-2. **Tests** (one assert statement per test)
-3. Write *good* **comments**
+1. Explanatory **var**
+2. ***+Testing+*** (one assert statement per test)
+3.  **Good** ***Comments***
 4. Remove **dead code** (commented out code) 
 5. all **import** statements at the **top of file**
 6. **Error handling** &rarr; throw exceptions and write own exceptions if necessary and add context
