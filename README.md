@@ -1,4 +1,4 @@
-# Fare Evasion prediction system
+# Fare Evasion prediction system :chart_with_upwards_trend:
 
 
 ## Description
