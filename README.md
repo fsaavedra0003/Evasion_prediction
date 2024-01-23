@@ -76,6 +76,8 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 ## UnitTests
 
 - Writing UnitTests to keep correctness and desired functionality of algortihm
+
+## IDE
   
 ## Features
 
