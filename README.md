@@ -45,7 +45,7 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 ## Metrics
 -Sonarcube account and connecting to repository for metric badges:
 
--[Metrics Sonarcube](https://sonarcloud.io/project/overview?id=fsaavedra0003_Evasion_prediction)
+- [Metrics Sonarcube](https://sonarcloud.io/project/overview?id=fsaavedra0003_Evasion_prediction)
 
 
 ## Clean Code Development
