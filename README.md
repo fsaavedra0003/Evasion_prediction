@@ -51,7 +51,7 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 
 -Creation of a Cheat Sheet for upcoming projects
 
-[Cheat Sheet](https://github.com/fsaavedra0003/Evasion_prediction/blob/56e0c907d30558fbfe8ed4d69dae6aec65c69782/load.py#L3-L7)
+[Cheat Sheet](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/cheat_sheet)
 
 
 ## Features
