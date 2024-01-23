@@ -24,6 +24,11 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 
  - [User Diagram](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/user_diagram.png)
 
+
+## Requirements Engineering 
+
+[Jira](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/class_diagram.png)
+
 ## DDD
 
 -Creation with Figma the Event Storming 
