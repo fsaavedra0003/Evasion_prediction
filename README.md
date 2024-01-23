@@ -33,7 +33,7 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 
 -Creation with Figma the Event Storming 
 
- - [Event Storming](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/Event_storming_figma.png)
+ - [Event Storming, Core Domain Chart & Relations between the Domains ](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/DDD.pdf)
 
 
 ## Metrics
