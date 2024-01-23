@@ -36,7 +36,6 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 
 -[Metrics Sonarcube](https://sonarcloud.io/project/overview?id=fsaavedra0003_Evasion_prediction)
 
-https://sonarcloud.io/project/overview?id=fsaavedra0003_Evasion_prediction
 
 ## Clean Code Development
 -Adding clean code developemnt for improved usage and readabilty as well as for better maintance of code.
