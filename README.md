@@ -81,11 +81,10 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 
 
 ### Pycharm 
-&rarr; *own Shortcut*: 
+&rarr; *Own Shortcut*: 
 - ```command + r``` (run) 
   
 &rarr; *build-in*:
-- ```cmd + f``` (find)
 - ```cmd + r``` (replace) 
 - ```option + c/v/x``` (copy/paste/cut)
 - ```cmd + /``` (comment (out))  
