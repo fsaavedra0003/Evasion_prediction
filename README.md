@@ -75,12 +75,11 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 
 ## UnitTests
 
-- Writing UnitTests to keep correctness and desired functionality of algortihm
-
+- Writing UnitTests so the code to be integrated into the Build correctely
 ## IDE
 
 
-### Pycharm 
+### Pycharm usage
 &rarr; *Own Shortcut*: 
 - ```command + r``` (run) 
   
