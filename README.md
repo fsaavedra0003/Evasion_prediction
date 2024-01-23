@@ -29,6 +29,12 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 
 [Jira](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/class_diagram.png)
 
+
+## Analysis
+
+[Checklist](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/class_diagram.png)
+
+
 ## DDD
 
 -Creation of diagramas for Domain-driven design 
