@@ -83,7 +83,7 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 &rarr; *Own Shortcut*: 
 - ```command + r``` (run) 
   
-&rarr; *build-in*:
+&rarr; *Build-in Shortcuts*:
 - ```cmd + r``` (replace) 
 - ```option + c/v/x``` (copy/paste/cut)
 - ```cmd + /``` (comment (out))  
