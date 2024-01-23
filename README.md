@@ -49,8 +49,9 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 [Use default arguments instead of short circuiting or conditionals](https://github.com/fsaavedra0003/Evasion_prediction/blob/56e0c907d30558fbfe8ed4d69dae6aec65c69782/load.py#L3-L7)
 
 
+-Creation of a Cheat Sheet for upcoming projects
 
-
+[Cheat Sheet](https://github.com/fsaavedra0003/Evasion_prediction/blob/56e0c907d30558fbfe8ed4d69dae6aec65c69782/load.py#L3-L7)
 
 
 ## Features
