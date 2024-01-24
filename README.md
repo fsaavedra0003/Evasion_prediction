@@ -32,7 +32,7 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 
 ## Analysis
 
-- [Checklist](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/class_diagram.png)
+- [Checklist](https://github.com/fsaavedra0003/Evasion_prediction/blob/main/Analysis_checklist%20_Startup.pdf)
 
 
 ## DDD
