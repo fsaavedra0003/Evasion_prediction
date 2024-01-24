@@ -55,7 +55,7 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 
 - [Variables](https://github.com/fsaavedra0003/Evasion_prediction/blob/56e0c907d30558fbfe8ed4d69dae6aec65c69782/load.py#L22-L23)
 
-- [Use the same vocabulary for the same type of variable](https://github.com/fsaavedra0003/Evasion_prediction/blob/56e0c907d30558fbfe8ed4d69dae6aec65c69782/load.py#L3-L7)
+- [Use the same vocabulary for the same type of variable](https://github.com/fsaavedra0003/Evasion_prediction/blob/56e0c907d30558fbfe8ed4d69dae6aec65c69782/load.py#L26)
 
 - [Use explanatory variables](https://github.com/fsaavedra0003/Evasion_prediction/blob/56e0c907d30558fbfe8ed4d69dae6aec65c69782/load.py#L3-L7)
 
