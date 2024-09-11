@@ -7,7 +7,7 @@ from sklearn.metrics import mean_squared_error
 import matplotlib.pyplot as plt
 
 
-# CSV file with history of evations
+# CSV file with history of evations for the last 2 years 
 
 csv_file = 'evasion.csv'
 
