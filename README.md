@@ -93,7 +93,7 @@ This project will have the capability to predict the U-Bahn, S-Bahn, buses, and 
 
 - Input with CSV
 - Select the time range
-- Output on screen
+- Output results
 
 ## Built With
 - Python :snake:
