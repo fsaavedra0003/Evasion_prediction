@@ -104,7 +104,7 @@ pip install pandas
     
 ## Usage/Examples
 
-This can be used by transport system companies.
+This can be used by transport system companies and inspectors.
 
 ## Contributing
 
